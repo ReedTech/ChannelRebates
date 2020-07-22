@@ -4,5 +4,27 @@
       "text": "首页",
       "path": "Index.md"
     }
-  ]
+  ],
+  "items": [
+    {
+      "text": "Rebates",
+      "items": [
+        {
+          "text": "Geek Time",
+          "path": "geektime/Index.md"
+        },
+        {
+          "text": "GitChat",
+          "path": "gitchat/Index.md"
+        },
+        {
+          "text": "Lagou",
+          "path": "lagou/Index.md"
+        },
+        {
+          "text": "Help",
+          "path": "help/Index.md"
+        }
+      ]
+    },
 }
